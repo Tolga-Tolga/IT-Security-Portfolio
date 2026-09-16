@@ -15,7 +15,7 @@ These writeups show the complete process from initial enumeration to obtaining r
 
 ## pwn.college — Web Security
 
-The [Web Security](pwn.college/Intro%20to%20Cybersecurity/Web%20Security/Web%20Security.md) section contains notes and solutions from hands-on pwn.college exercises. It documents my progression through common web-security concepts, including:
+The [Web Security](pwn.college/Intro%20to%20Cybersecurity/Web%20Security/Readme.md) section contains notes and solutions from hands-on pwn.college exercises. It documents my progression through common web-security concepts, including:
 
 - path traversal;
 - command injection;
