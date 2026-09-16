@@ -8,8 +8,8 @@ The repository documents how I approach technical problems: I examine the availa
 
 ### Hack The Box
 
-- [Cap](htb/ctfs/Cap/Cap%20Writeup.md) — Linux machine involving service and web enumeration, an IDOR vulnerability, PCAP analysis, credential discovery, SSH access, and privilege escalation.
-- [DevHub](htb/ctfs/DevHub/DevHub%20Writeup.md) — Linux machine involving service enumeration, remote code execution, Jupyter API interaction, credential discovery, and multiple privilege-escalation steps.
+- [Cap](htb/ctfs/Cap/Readme.md) — Linux machine involving service and web enumeration, an IDOR vulnerability, PCAP analysis, credential discovery, SSH access, and privilege escalation.
+- [DevHub](htb/ctfs/DevHub/Readme.md) — Linux machine involving service enumeration, remote code execution, Jupyter API interaction, credential discovery, and multiple privilege-escalation steps.
 
 These writeups show the complete process from initial enumeration to obtaining root access, including the observations and decisions made along the way.
 
